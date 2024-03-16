@@ -1,6 +1,6 @@
 import Lottie from "lottie-react";
-import bannerPhoneAnimation from "../../assets/lottieAnimation/Animation - 1710398027566.json";
-import bannerContactAnimation from "../../assets/lottieAnimation/Animation - 1710398196686.json";
+import bannerPhoneAnimation from "../assets/lottieAnimation/Animation - 1710398027566.json";
+import bannerContactAnimation from "../assets/lottieAnimation/Animation - 1710398196686.json";
 const Banner = () => {
   return (
     <div className="flex flex-col md:flex-row px-20 gap-5 items-center bg-indigo-100 py-10">

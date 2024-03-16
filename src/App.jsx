@@ -1,9 +1,9 @@
-import Banner from './assets/components/Banner'
-import Footer from './assets/components/Footer'
-import Header from './assets/components/Header'
-import PhoneUs from './assets/components/PhoneUs'
-import Recentworks from './assets/components/Recentworks'
-import Service from './assets/components/Service'
+import Banner from './components/Banner'
+import Footer from './components/Footer'
+import Header from './components/Header'
+import PhoneUs from './components/PhoneUs'
+import Recentworks from './components/Recentworks'
+import Service from './components/Service'
 
 function App() {
 

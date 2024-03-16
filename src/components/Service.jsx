@@ -4,11 +4,11 @@ import "swiper/css";
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 
-import Logo from '../../assets/Image/glob.jpeg';
-import Globelogo from '../../assets/Image/globe-logo.png';
-import Softwarelogo from '../../assets/Image/soft-logo.png';
-import Networklogo from '../../assets/Image/network.png';
-import Apps from '../../assets/Image/apps.png';
+import Logo from '../assets/Image/glob.jpeg';
+import Globelogo from '../assets/Image/globe-logo.png';
+import Softwarelogo from '../assets/Image/soft-logo.png';
+import Networklogo from '../assets/Image/network.png';
+import Apps from '../assets/Image/apps.png';
 const Service = () => {
   return (
     <div className="px-20 flex flex-col py-20 space-y-24 bg-gray-100">
@@ -65,5 +65,4 @@ const Service = () => {
     </div>
   );
 };
-
 export default Service;

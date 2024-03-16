@@ -2,8 +2,8 @@ import { TfiWorld } from "react-icons/tfi";
 import { BsCodeSlash } from "react-icons/bs";
 import './projects.css';
 import { motion } from "framer-motion";
-import bsfic from '../../assets/Image/project/bsfic.png';
-import login from '../../assets/Image/project/login.png';
+import bsfic from '../assets/Image/project/bsfic.png';
+import login from '../assets/Image/project/login.png';
 const Recentworks = () => {
     return (
         <section id="project" className='max-w-contentContainer mx-auto px-8 md:px-28'>
